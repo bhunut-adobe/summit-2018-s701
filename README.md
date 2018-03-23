@@ -15,4 +15,5 @@ Kevin Bhunut Adobe Solution Developer
 
 Andrew Dorton Adobe Developer
 
-[Download Slide Here]:(../blob/master/SUMMIT2018-s701.pdf)
+
+### [Click here to Download Presentation](../blob/master/SUMMIT2018-s701.pdf)
